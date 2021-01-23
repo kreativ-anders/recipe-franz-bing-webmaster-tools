@@ -1,0 +1,12 @@
+{
+  "id": "BingWebmasterTools",
+  "name": "Bing Webmaster Tools",
+  "version": "0.1",
+  "description": "Bing Webmaster Tools Console for Franz",
+  "main": "index.js",
+  "author": "kreativ-anders | Manuel Steinberg",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.bing.com/webmasters"
+  }
+}
